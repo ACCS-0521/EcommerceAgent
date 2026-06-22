@@ -1,0 +1,182 @@
+[
+{
+"userId": "U10001",
+"name": "张伟",
+"vipLevel": "黄金会员",
+"phone": "138****0001",
+"address": "北京市朝阳区",
+"totalOrders": 28,
+"totalConsumption": 5680
+},
+{
+"userId": "U10002",
+"name": "李娜",
+"vipLevel": "普通会员",
+"phone": "138****0002",
+"address": "上海市浦东新区",
+"totalOrders": 6,
+"totalConsumption": 920
+},
+{
+"userId": "U10003",
+"name": "王强",
+"vipLevel": "白银会员",
+"phone": "138****0003",
+"address": "广州市天河区",
+"totalOrders": 12,
+"totalConsumption": 2180
+},
+{
+"userId": "U10004",
+"name": "刘洋",
+"vipLevel": "钻石会员",
+"phone": "138****0004",
+"address": "深圳市南山区",
+"totalOrders": 65,
+"totalConsumption": 26880
+},
+{
+"userId": "U10005",
+"name": "陈晨",
+"vipLevel": "黄金会员",
+"phone": "138****0005",
+"address": "杭州市西湖区",
+"totalOrders": 22,
+"totalConsumption": 4260
+},
+{
+"userId": "U10006",
+"name": "赵敏",
+"vipLevel": "普通会员",
+"phone": "138****0006",
+"address": "成都市高新区",
+"totalOrders": 4,
+"totalConsumption": 580
+},
+{
+"userId": "U10007",
+"name": "孙磊",
+"vipLevel": "白银会员",
+"phone": "138****0007",
+"address": "重庆市渝北区",
+"totalOrders": 15,
+"totalConsumption": 2860
+},
+{
+"userId": "U10008",
+"name": "周婷",
+"vipLevel": "黄金会员",
+"phone": "138****0008",
+"address": "南京市鼓楼区",
+"totalOrders": 24,
+"totalConsumption": 5180
+},
+{
+"userId": "U10009",
+"name": "吴杰",
+"vipLevel": "普通会员",
+"phone": "138****0009",
+"address": "武汉市洪山区",
+"totalOrders": 8,
+"totalConsumption": 1360
+},
+{
+"userId": "U10010",
+"name": "徐倩",
+"vipLevel": "白银会员",
+"phone": "138****0010",
+"address": "西安市雁塔区",
+"totalOrders": 14,
+"totalConsumption": 2590
+},
+{
+"userId": "U10011",
+"name": "高飞",
+"vipLevel": "普通会员",
+"phone": "138****0011",
+"address": "天津市和平区",
+"totalOrders": 5,
+"totalConsumption": 760
+},
+{
+"userId": "U10012",
+"name": "马琳",
+"vipLevel": "黄金会员",
+"phone": "138****0012",
+"address": "苏州市工业园区",
+"totalOrders": 26,
+"totalConsumption": 6120
+},
+{
+"userId": "U10013",
+"name": "何涛",
+"vipLevel": "白银会员",
+"phone": "138****0013",
+"address": "长沙市岳麓区",
+"totalOrders": 11,
+"totalConsumption": 1830
+},
+{
+"userId": "U10014",
+"name": "朱静",
+"vipLevel": "钻石会员",
+"phone": "138****0014",
+"address": "青岛市市南区",
+"totalOrders": 58,
+"totalConsumption": 22100
+},
+{
+"userId": "U10015",
+"name": "郭阳",
+"vipLevel": "普通会员",
+"phone": "138****0015",
+"address": "郑州市金水区",
+"totalOrders": 7,
+"totalConsumption": 1180
+},
+{
+"userId": "U10016",
+"name": "彭雪",
+"vipLevel": "黄金会员",
+"phone": "138****0016",
+"address": "厦门市思明区",
+"totalOrders": 21,
+"totalConsumption": 4890
+},
+{
+"userId": "U10017",
+"name": "邓凯",
+"vipLevel": "白银会员",
+"phone": "138****0017",
+"address": "济南市历下区",
+"totalOrders": 13,
+"totalConsumption": 2360
+},
+{
+"userId": "U10018",
+"name": "冯蕾",
+"vipLevel": "普通会员",
+"phone": "138****0018",
+"address": "合肥市蜀山区",
+"totalOrders": 3,
+"totalConsumption": 420
+},
+{
+"userId": "U10019",
+"name": "蒋涛",
+"vipLevel": "黄金会员",
+"phone": "138****0019",
+"address": "宁波市鄞州区",
+"totalOrders": 31,
+"totalConsumption": 7560
+},
+{
+"userId": "U10020",
+"name": "唐悦",
+"vipLevel": "白银会员",
+"phone": "138****0020",
+"address": "福州市鼓楼区",
+"totalOrders": 16,
+"totalConsumption": 3020
+}
+]

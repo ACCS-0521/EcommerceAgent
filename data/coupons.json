@@ -1,0 +1,162 @@
+[
+  {
+    "couponId": "C10001",
+    "name": "新人专享券",
+    "discount": 10,
+    "minAmount": 99,
+    "expireTime": "2026-07-01",
+    "available": true
+  },
+  {
+    "couponId": "C10002",
+    "name": "满199减20券",
+    "discount": 20,
+    "minAmount": 199,
+    "expireTime": "2026-07-05",
+    "available": true
+  },
+  {
+    "couponId": "C10003",
+    "name": "满299减30券",
+    "discount": 30,
+    "minAmount": 299,
+    "expireTime": "2026-07-10",
+    "available": true
+  },
+  {
+    "couponId": "C10004",
+    "name": "满499减60券",
+    "discount": 60,
+    "minAmount": 499,
+    "expireTime": "2026-07-12",
+    "available": true
+  },
+  {
+    "couponId": "C10005",
+    "name": "黄金会员专享券",
+    "discount": 50,
+    "minAmount": 399,
+    "expireTime": "2026-07-15",
+    "available": true
+  },
+  {
+    "couponId": "C10006",
+    "name": "钻石会员专享券",
+    "discount": 100,
+    "minAmount": 999,
+    "expireTime": "2026-07-20",
+    "available": true
+  },
+  {
+    "couponId": "C10007",
+    "name": "耳机品类券",
+    "discount": 30,
+    "minAmount": 199,
+    "expireTime": "2026-07-08",
+    "available": true
+  },
+  {
+    "couponId": "C10008",
+    "name": "键鼠外设券",
+    "discount": 25,
+    "minAmount": 199,
+    "expireTime": "2026-07-08",
+    "available": true
+  },
+  {
+    "couponId": "C10009",
+    "name": "显示器满减券",
+    "discount": 120,
+    "minAmount": 1299,
+    "expireTime": "2026-07-18",
+    "available": true
+  },
+  {
+    "couponId": "C10010",
+    "name": "充电配件券",
+    "discount": 15,
+    "minAmount": 99,
+    "expireTime": "2026-07-06",
+    "available": true
+  },
+  {
+    "couponId": "C10011",
+    "name": "移动电源优惠券",
+    "discount": 20,
+    "minAmount": 129,
+    "expireTime": "2026-07-09",
+    "available": true
+  },
+  {
+    "couponId": "C10012",
+    "name": "直播设备券",
+    "discount": 80,
+    "minAmount": 399,
+    "expireTime": "2026-07-16",
+    "available": true
+  },
+  {
+    "couponId": "C10013",
+    "name": "办公设备券",
+    "discount": 35,
+    "minAmount": 299,
+    "expireTime": "2026-07-11",
+    "available": true
+  },
+  {
+    "couponId": "C10014",
+    "name": "618返场券",
+    "discount": 66,
+    "minAmount": 666,
+    "expireTime": "2026-06-30",
+    "available": true
+  },
+  {
+    "couponId": "C10015",
+    "name": "暑期数码券",
+    "discount": 88,
+    "minAmount": 899,
+    "expireTime": "2026-08-01",
+    "available": true
+  },
+  {
+    "couponId": "C10016",
+    "name": "白银会员券",
+    "discount": 20,
+    "minAmount": 199,
+    "expireTime": "2026-07-14",
+    "available": true
+  },
+  {
+    "couponId": "C10017",
+    "name": "普通会员福利券",
+    "discount": 8,
+    "minAmount": 59,
+    "expireTime": "2026-07-03",
+    "available": true
+  },
+  {
+    "couponId": "C10018",
+    "name": "过期新人券",
+    "discount": 10,
+    "minAmount": 99,
+    "expireTime": "2026-05-31",
+    "available": false
+  },
+  {
+    "couponId": "C10019",
+    "name": "过期满减券",
+    "discount": 30,
+    "minAmount": 299,
+    "expireTime": "2026-05-20",
+    "available": false
+  },
+  {
+    "couponId": "C10020",
+    "name": "限时免邮券",
+    "discount": 12,
+    "minAmount": 49,
+    "expireTime": "2026-07-07",
+    "available": true
+  }
+]

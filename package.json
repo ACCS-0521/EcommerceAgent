@@ -1,0 +1,35 @@
+{
+  "name": "ecommerce-agent",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch server/index.ts",
+    "dev:web": "pnpm --filter ecommerce-agent-web dev",
+    "build": "tsc -p tsconfig.json",
+    "build:web": "pnpm --filter ecommerce-agent-web build",
+    "start": "node dist/server/index.js",
+    "test": "vitest run tests",
+    "test:web": "pnpm --filter ecommerce-agent-web test",
+    "test:live-intents": "RUN_LIVE_DEEPSEEK_TESTS=1 vitest run tests/intentLive.test.ts",
+    "test:watch": "vitest tests",
+    "typecheck": "tsc -p tsconfig.json --noEmit"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "openai": "^6.44.0",
+    "zod": "^3.25.67"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.3",
+    "@types/node": "^24.0.3",
+    "@types/supertest": "^7.2.0",
+    "supertest": "^7.1.1",
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.3",
+    "vitest": "^3.2.4"
+  }
+}

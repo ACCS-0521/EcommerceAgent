@@ -1,0 +1,298 @@
+[
+  {
+    "conversationId": "CONV0001",
+    "userId": "U10001",
+    "messages": [
+      {
+        "role": "user",
+        "content": "这款耳机支持苹果手机吗？"
+      },
+      {
+        "role": "assistant",
+        "content": "支持，ACC AirPods Pro 无线蓝牙耳机支持 iPhone 和 Android 设备。"
+      }
+    ]
+  },
+  {
+    "conversationId": "CONV0002",
+    "userId": "U10002",
+    "messages": [
+      {
+        "role": "user",
+        "content": "推荐300元以内的耳机。"
+      },
+      {
+        "role": "assistant",
+        "content": "推荐 ACC AirPods Pro 无线蓝牙耳机，售价199元，支持主动降噪。"
+      }
+    ]
+  },
+  {
+    "conversationId": "CONV0003",
+    "userId": "U10003",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我的订单发货了吗？"
+      },
+      {
+        "role": "assistant",
+        "content": "请提供订单号。"
+      },
+      {
+        "role": "user",
+        "content": "ORD202600003"
+      },
+      {
+        "role": "assistant",
+        "content": "您的订单已发货，目前等待物流揽收。"
+      }
+    ]
+  },
+  {
+    "conversationId": "CONV0004",
+    "userId": "U10004",
+    "messages": [
+      {
+        "role": "user",
+        "content": "物流到哪里了？"
+      },
+      {
+        "role": "assistant",
+        "content": "请提供物流单号或订单号。"
+      },
+      {
+        "role": "user",
+        "content": "SF202600004"
+      },
+      {
+        "role": "assistant",
+        "content": "您的快递已签收。"
+      }
+    ]
+  },
+  {
+    "conversationId": "CONV0005",
+    "userId": "U10005",
+    "messages": [
+      {
+        "role": "user",
+        "content": "现在有什么优惠券？"
+      },
+      {
+        "role": "assistant",
+        "content": "当前可领取满199减20券、新人专享券等优惠券。"
+      }
+    ]
+  },
+  {
+    "conversationId": "CONV0006",
+    "userId": "U10006",
+    "messages": [
+      {
+        "role": "user",
+        "content": "多久发货？"
+      },
+      {
+        "role": "assistant",
+        "content": "通常支付成功后48小时内发货。"
+      }
+    ]
+  },
+  {
+    "conversationId": "CONV0007",
+    "userId": "U10007",
+    "messages": [
+      {
+        "role": "user",
+        "content": "支持七天无理由退货吗？"
+      },
+      {
+        "role": "assistant",
+        "content": "符合条件的商品支持七天无理由退货。"
+      }
+    ]
+  },
+  {
+    "conversationId": "CONV0008",
+    "userId": "U10008",
+    "messages": [
+      {
+        "role": "user",
+        "content": "订单可以取消吗？"
+      },
+      {
+        "role": "assistant",
+        "content": "未发货订单可以申请取消。"
+      }
+    ]
+  },
+  {
+    "conversationId": "CONV0009",
+    "userId": "U10009",
+    "messages": [
+      {
+        "role": "user",
+        "content": "显示器支持壁挂吗？"
+      },
+      {
+        "role": "assistant",
+        "content": "支持 VESA 标准壁挂接口的显示器可以壁挂。"
+      }
+    ]
+  },
+  {
+    "conversationId": "CONV0010",
+    "userId": "U10010",
+    "messages": [
+      {
+        "role": "user",
+        "content": "我的耳机有杂音怎么办？"
+      },
+      {
+        "role": "assistant",
+        "content": "建议提交售后申请，我们会协助检测和处理。"
+      }
+    ]
+  },
+{
+  "conversationId": "CONV0011",
+  "userId": "U10011",
+  "messages": [
+    {
+      "role": "user",
+      "content": "推荐一个办公用鼠标。"
+    },
+    {
+      "role": "assistant",
+      "content": "推荐 ACC Silent 无线鼠标，静音设计，适合长时间办公使用。"
+    }
+  ]
+},
+{
+  "conversationId": "CONV0012",
+  "userId": "U10012",
+  "messages": [
+    {
+      "role": "user",
+      "content": "有没有支持Mac的键盘？"
+    },
+    {
+      "role": "assistant",
+      "content": "ACC Game Pro 电竞机械键盘和 ACC TKL 无线机械键盘均支持 Mac 系统。"
+    }
+  ]
+},
+{
+  "conversationId": "CONV0013",
+  "userId": "U10013",
+  "messages": [
+    {
+      "role": "user",
+      "content": "移动电源能带上飞机吗？"
+    },
+    {
+      "role": "assistant",
+      "content": "符合民航规定容量要求的移动电源可以随身携带登机。"
+    }
+  ]
+},
+{
+  "conversationId": "CONV0014",
+  "userId": "U10014",
+  "messages": [
+    {
+      "role": "user",
+      "content": "显示器支持2K吗？"
+    },
+    {
+      "role": "assistant",
+      "content": "ACC Vision 27寸电竞显示器支持2K分辨率。"
+    }
+  ]
+},
+{
+  "conversationId": "CONV0015",
+  "userId": "U10015",
+  "messages": [
+    {
+      "role": "user",
+      "content": "我想退款。"
+    },
+    {
+      "role": "assistant",
+      "content": "请提供订单号，我将帮助您查询订单并协助处理退款申请。"
+    }
+  ]
+},
+{
+  "conversationId": "CONV0016",
+  "userId": "U10016",
+  "messages": [
+    {
+      "role": "user",
+      "content": "为什么物流一直没更新？"
+    },
+    {
+      "role": "assistant",
+      "content": "物流信息可能存在同步延迟，请提供物流单号帮您进一步查询。"
+    }
+  ]
+},
+{
+  "conversationId": "CONV0017",
+  "userId": "U10017",
+  "messages": [
+    {
+      "role": "user",
+      "content": "订单可以改地址吗？"
+    },
+    {
+      "role": "assistant",
+      "content": "如果订单尚未发货，可以联系客服修改收货地址。"
+    }
+  ]
+},
+{
+  "conversationId": "CONV0018",
+  "userId": "U10018",
+  "messages": [
+    {
+      "role": "user",
+      "content": "有什么会员优惠？"
+    },
+    {
+      "role": "assistant",
+      "content": "会员可领取专属优惠券并参与会员专享活动。"
+    }
+  ]
+},
+{
+  "conversationId": "CONV0019",
+  "userId": "U10019",
+  "messages": [
+    {
+      "role": "user",
+      "content": "这款耳机续航多久？"
+    },
+    {
+      "role": "assistant",
+      "content": "ACC AirPods Pro 无线蓝牙耳机续航约40小时。"
+    }
+  ]
+},
+{
+  "conversationId": "CONV0020",
+  "userId": "U10020",
+  "messages": [
+    {
+      "role": "user",
+      "content": "怎么联系人工客服？"
+    },
+    {
+      "role": "assistant",
+      "content": "您可以通过在线客服入口转接人工客服，我们的服务时间为09:00-21:00。"
+    }
+  ]
+}
+]

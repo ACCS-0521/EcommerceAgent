@@ -1,0 +1,363 @@
+[
+{
+"id": "P100001",
+"name": "ACC AirPods Pro 无线蓝牙耳机",
+"category": "耳机",
+"brand": "ACC",
+"price": 199,
+"stock": 86,
+"sales": 1268,
+"rating": 4.8,
+"colors": ["黑色", "白色"],
+"specifications": {
+"bluetooth": "5.3",
+"battery": "40小时",
+"weight": "4.5g"
+},
+"tags": ["降噪", "运动", "苹果兼容"],
+"description": "支持主动降噪，40小时续航，适合运动和通勤场景。",
+"faq": ["支持 iPhone 和 Android", "支持快充"]
+},
+{
+"id": "P100002",
+"name": "ACC Game Pro 电竞机械键盘",
+"category": "键盘",
+"brand": "ACC",
+"price": 299,
+"stock": 52,
+"sales": 728,
+"rating": 4.9,
+"colors": ["黑色"],
+"specifications": {
+"switch": "红轴",
+"connection": "有线",
+"layout": "87键"
+},
+"tags": ["电竞", "机械键盘", "游戏"],
+"description": "87键红轴机械键盘，适合电竞玩家。",
+"faq": ["支持 Windows 和 Mac", "支持键帽更换"]
+},
+{
+"id": "P100003",
+"name": "ACC Silent 无线鼠标",
+"category": "鼠标",
+"brand": "ACC",
+"price": 79,
+"stock": 120,
+"sales": 2180,
+"rating": 4.7,
+"colors": ["黑色", "白色"],
+"specifications": {
+"dpi": "4000",
+"battery": "12个月"
+},
+"tags": ["静音", "办公", "无线"],
+"description": "静音按键设计，适合办公环境。",
+"faq": ["支持蓝牙连接", "支持 Mac"]
+},
+{
+"id": "P100004",
+"name": "ACC Vision 27寸电竞显示器",
+"category": "显示器",
+"brand": "ACC",
+"price": 1299,
+"stock": 28,
+"sales": 386,
+"rating": 4.8,
+"colors": ["黑色"],
+"specifications": {
+"size": "27寸",
+"refreshRate": "144Hz",
+"resolution": "2560x1440"
+},
+"tags": ["电竞", "高刷", "2K"],
+"description": "27寸2K 144Hz电竞显示器。",
+"faq": ["支持 HDMI", "支持 DP 接口"]
+},
+{
+"id": "P100005",
+"name": "ACC Fast 65W 氮化镓充电器",
+"category": "充电器",
+"brand": "ACC",
+"price": 139,
+"stock": 90,
+"sales": 1680,
+"rating": 4.9,
+"colors": ["白色"],
+"specifications": {
+"power": "65W",
+"interface": "USB-C"
+},
+"tags": ["快充", "PD协议", "氮化镓"],
+"description": "支持 PD 快充协议，兼容手机和平板。",
+"faq": ["支持 MacBook", "支持 iPhone"]
+},
+{
+"id": "P100006",
+"name": "ACC Power 20000mAh 移动电源",
+"category": "移动电源",
+"brand": "ACC",
+"price": 159,
+"stock": 75,
+"sales": 1126,
+"rating": 4.8,
+"colors": ["黑色"],
+"specifications": {
+"capacity": "20000mAh",
+"power": "22.5W"
+},
+"tags": ["大容量", "快充"],
+"description": "支持双向快充的大容量移动电源。",
+"faq": ["可带上飞机", "支持 PD 协议"]
+},
+{
+"id": "P100007",
+"name": "ACC USB-C 数据线 1m",
+"category": "数据线",
+"brand": "ACC",
+"price": 29,
+"stock": 300,
+"sales": 5360,
+"rating": 4.9,
+"colors": ["白色"],
+"specifications": {
+"length": "1m",
+"power": "100W"
+},
+"tags": ["快充", "USB-C"],
+"description": "支持100W快充的数据线。",
+"faq": ["支持 MacBook", "支持安卓手机"]
+},
+{
+"id": "P100008",
+"name": "ACC Laptop 铝合金电脑支架",
+"category": "支架",
+"brand": "ACC",
+"price": 89,
+"stock": 64,
+"sales": 920,
+"rating": 4.7,
+"colors": ["银色"],
+"specifications": {
+"material": "铝合金"
+},
+"tags": ["办公", "散热"],
+"description": "铝合金笔记本支架。",
+"faq": ["支持17寸以下笔记本"]
+},
+{
+"id": "P100009",
+"name": "ACC FullHD 高清摄像头",
+"category": "摄像头",
+"brand": "ACC",
+"price": 199,
+"stock": 35,
+"sales": 460,
+"rating": 4.6,
+"colors": ["黑色"],
+"specifications": {
+"resolution": "1080P",
+"microphone": "内置"
+},
+"tags": ["会议", "直播"],
+"description": "1080P高清摄像头，适合会议与直播。",
+"faq": ["支持 Windows", "支持 Mac"]
+},
+{
+"id": "P100010",
+"name": "ACC Stream USB 麦克风",
+"category": "麦克风",
+"brand": "ACC",
+"price": 399,
+"stock": 26,
+"sales": 328,
+"rating": 4.8,
+"colors": ["黑色"],
+"specifications": {
+"connection": "USB",
+"pickup": "心形指向"
+},
+"tags": ["直播", "录音"],
+"description": "直播录音专用USB麦克风。",
+"faq": ["即插即用", "支持OBS"]
+},
+{
+"id": "P100011",
+"name": "ACC TKL 无线机械键盘",
+"category": "键盘",
+"brand": "ACC",
+"price": 459,
+"stock": 42,
+"sales": 512,
+"rating": 4.8,
+"colors": ["黑色", "白色"],
+"specifications": {
+"layout": "84键",
+"connection": "三模连接"
+},
+"tags": ["机械键盘", "无线"],
+"description": "支持蓝牙、2.4G、有线三模连接。",
+"faq": ["支持Mac", "支持热插拔"]
+},
+{
+"id": "P100012",
+"name": "ACC Ergo 人体工学鼠标",
+"category": "鼠标",
+"brand": "ACC",
+"price": 169,
+"stock": 58,
+"sales": 680,
+"rating": 4.7,
+"colors": ["黑色"],
+"specifications": {
+"dpi": "8000",
+"connection": "无线"
+},
+"tags": ["办公", "人体工学"],
+"description": "减轻手腕压力的人体工学设计。",
+"faq": ["支持Mac", "支持蓝牙"]
+},
+{
+"id": "P100013",
+"name": "ACC Ultra 32寸4K显示器",
+"category": "显示器",
+"brand": "ACC",
+"price": 2299,
+"stock": 18,
+"sales": 152,
+"rating": 4.9,
+"colors": ["黑色"],
+"specifications": {
+"size": "32寸",
+"resolution": "3840x2160",
+"refreshRate": "144Hz"
+},
+"tags": ["4K", "电竞"],
+"description": "32寸4K高刷新率显示器。",
+"faq": ["支持HDR", "支持Type-C"]
+},
+{
+"id": "P100014",
+"name": "ACC Mini 30W 快充头",
+"category": "充电器",
+"brand": "ACC",
+"price": 69,
+"stock": 160,
+"sales": 2860,
+"rating": 4.8,
+"colors": ["白色"],
+"specifications": {
+"power": "30W"
+},
+"tags": ["快充", "便携"],
+"description": "小巧便携30W快充充电器。",
+"faq": ["支持iPhone", "支持安卓"]
+},
+{
+"id": "P100015",
+"name": "ACC Power 10000mAh 移动电源",
+"category": "移动电源",
+"brand": "ACC",
+"price": 99,
+"stock": 95,
+"sales": 1950,
+"rating": 4.7,
+"colors": ["黑色", "白色"],
+"specifications": {
+"capacity": "10000mAh",
+"power": "20W"
+},
+"tags": ["便携", "快充"],
+"description": "轻量化便携移动电源。",
+"faq": ["支持PD", "可带上飞机"]
+},
+{
+"id": "P100016",
+"name": "ACC USB-C 数据线 2m",
+"category": "数据线",
+"brand": "ACC",
+"price": 39,
+"stock": 260,
+"sales": 4020,
+"rating": 4.8,
+"colors": ["白色"],
+"specifications": {
+"length": "2m",
+"power": "100W"
+},
+"tags": ["快充", "长线"],
+"description": "2米加长版快充数据线。",
+"faq": ["支持MacBook", "支持PD"]
+},
+{
+"id": "P100017",
+"name": "ACC 手机平板支架",
+"category": "支架",
+"brand": "ACC",
+"price": 49,
+"stock": 180,
+"sales": 1380,
+"rating": 4.6,
+"colors": ["黑色", "银色"],
+"specifications": {
+"material": "铝合金"
+},
+"tags": ["桌面", "便携"],
+"description": "可折叠手机平板支架。",
+"faq": ["支持iPad", "支持手机"]
+},
+{
+"id": "P100018",
+"name": "ACC 2K AI 摄像头",
+"category": "摄像头",
+"brand": "ACC",
+"price": 299,
+"stock": 30,
+"sales": 286,
+"rating": 4.8,
+"colors": ["黑色"],
+"specifications": {
+"resolution": "2K",
+"tracking": "AI自动追踪"
+},
+"tags": ["直播", "AI"],
+"description": "支持AI自动追踪的2K摄像头。",
+"faq": ["支持直播", "支持Mac"]
+},
+{
+"id": "P100019",
+"name": "ACC Podcast 专业麦克风",
+"category": "麦克风",
+"brand": "ACC",
+"price": 699,
+"stock": 16,
+"sales": 96,
+"rating": 4.9,
+"colors": ["黑色"],
+"specifications": {
+"connection": "XLR",
+"pickup": "心形指向"
+},
+"tags": ["播客", "录音"],
+"description": "专业播客录音麦克风。",
+"faq": ["需声卡支持", "适合录音室"]
+},
+{
+"id": "P100020",
+"name": "ACC ANC Max 头戴式降噪耳机",
+"category": "耳机",
+"brand": "ACC",
+"price": 899,
+"stock": 22,
+"sales": 268,
+"rating": 4.9,
+"colors": ["黑色", "银色"],
+"specifications": {
+"battery": "60小时",
+"bluetooth": "5.4"
+},
+"tags": ["降噪", "头戴式", "高端"],
+"description": "旗舰级主动降噪头戴耳机。",
+"faq": ["支持有线模式", "支持空间音频"]
+}
+]

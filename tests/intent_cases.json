@@ -1,0 +1,159 @@
+[
+  {
+    "id": "INTENT001",
+    "input": "这个耳机支持苹果手机吗",
+    "expectedIntent": "query_product"
+  },
+  {
+    "id": "INTENT002",
+    "input": "耳机有白色的吗",
+    "expectedIntent": "query_product"
+  },
+  {
+    "id": "INTENT003",
+    "input": "这款显示器是多少寸",
+    "expectedIntent": "query_product"
+  },
+  {
+    "id": "INTENT004",
+    "input": "键盘支持Mac吗",
+    "expectedIntent": "query_product"
+  },
+  {
+    "id": "INTENT005",
+    "input": "这款耳机续航多久",
+    "expectedIntent": "query_product"
+  },
+
+  {
+    "id": "INTENT006",
+    "input": "推荐一个300元以内的耳机",
+    "expectedIntent": "recommend_product"
+  },
+  {
+    "id": "INTENT007",
+    "input": "帮我推荐办公鼠标",
+    "expectedIntent": "recommend_product"
+  },
+  {
+    "id": "INTENT008",
+    "input": "有没有适合打游戏的键盘",
+    "expectedIntent": "recommend_product"
+  },
+  {
+    "id": "INTENT009",
+    "input": "推荐一个直播麦克风",
+    "expectedIntent": "recommend_product"
+  },
+  {
+    "id": "INTENT010",
+    "input": "预算1000左右买什么显示器",
+    "expectedIntent": "recommend_product"
+  },
+
+  {
+    "id": "INTENT011",
+    "input": "帮我查一下订单",
+    "expectedIntent": "query_order"
+  },
+  {
+    "id": "INTENT012",
+    "input": "我的订单发货了吗",
+    "expectedIntent": "query_order"
+  },
+  {
+    "id": "INTENT013",
+    "input": "ORD202600003",
+    "expectedIntent": "query_order"
+  },
+  {
+    "id": "INTENT014",
+    "input": "订单什么时候到",
+    "expectedIntent": "query_order"
+  },
+  {
+    "id": "INTENT015",
+    "input": "查订单状态",
+    "expectedIntent": "query_order"
+  },
+
+  {
+    "id": "INTENT016",
+    "input": "帮我查物流",
+    "expectedIntent": "query_logistics"
+  },
+  {
+    "id": "INTENT017",
+    "input": "SF202600010",
+    "expectedIntent": "query_logistics"
+  },
+  {
+    "id": "INTENT018",
+    "input": "快递到哪里了",
+    "expectedIntent": "query_logistics"
+  },
+  {
+    "id": "INTENT019",
+    "input": "物流怎么一直没更新",
+    "expectedIntent": "query_logistics"
+  },
+  {
+    "id": "INTENT020",
+    "input": "帮我看看快递",
+    "expectedIntent": "query_logistics"
+  },
+
+  {
+    "id": "INTENT021",
+    "input": "有什么优惠券",
+    "expectedIntent": "query_coupon"
+  },
+  {
+    "id": "INTENT022",
+    "input": "能领什么优惠",
+    "expectedIntent": "query_coupon"
+  },
+  {
+    "id": "INTENT023",
+    "input": "优惠券怎么用",
+    "expectedIntent": "query_coupon"
+  },
+
+  {
+    "id": "INTENT024",
+    "input": "多久发货",
+    "expectedIntent": "query_faq"
+  },
+  {
+    "id": "INTENT025",
+    "input": "支持七天无理由吗",
+    "expectedIntent": "query_faq"
+  },
+  {
+    "id": "INTENT026",
+    "input": "支持开发票吗",
+    "expectedIntent": "query_faq"
+  },
+  {
+    "id": "INTENT027",
+    "input": "运费怎么算",
+    "expectedIntent": "query_faq"
+  },
+
+  {
+    "id": "INTENT028",
+    "input": "我要退款",
+    "expectedIntent": "refund"
+  },
+  {
+    "id": "INTENT029",
+    "input": "申请退货",
+    "expectedIntent": "refund"
+  },
+
+  {
+    "id": "INTENT030",
+    "input": "我要找人工客服",
+    "expectedIntent": "human_service"
+  }
+]
