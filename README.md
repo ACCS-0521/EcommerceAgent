@@ -19,6 +19,8 @@
 - React 响应式聊天页面，支持移动端、加载态和错误提示
 - 后端、Tool、安全策略、路由与前端组件均有自动化测试
 
+> 本项目是智能客服 Agent MVP 演示，不连接真实电商平台，不处理真实订单。Mock 数据和 AI 回复不能替代真实商家客服、法律意见、财务结算或平台官方规则。
+
 ## 系统架构
 
 ```mermaid
@@ -194,6 +196,15 @@ pnpm test:live-intents
 - DeepSeek Strict Tool Calling 仍属 Beta，本阶段使用标准 Tool Calling。
 - 当前没有部署在线 Demo，需要在本地配置 DeepSeek API Key 运行。
 
+## 数据、隐私与 AI 边界
+
+- `data/` 中的商品、订单、物流、优惠券、FAQ 和售后规则都是 Mock 数据。
+- 本地配置 DeepSeek API Key 后，聊天内容会发送到配置的 DeepSeek API 地址。
+- 请勿在演示中输入真实个人敏感信息、真实订单、真实物流单号或商业机密。
+- `.env`、API Key、访问令牌、私钥、真实用户数据和调试日志不得提交到仓库。
+
+完整说明见 [内容、数据、AI 与隐私说明](CONTENT_NOTICE.md)。
+
 ## Roadmap
 
 - Phase 2：数据库、用户系统和历史记录持久化
@@ -205,9 +216,10 @@ Roadmap 仅描述后续方向，不属于当前 MVP。
 ## 安全与贡献
 
 - 安全问题请阅读 [SECURITY.md](SECURITY.md)，不要创建公开漏洞 Issue。
+- 参与贡献请阅读 [CONTRIBUTING.md](CONTRIBUTING.md) 和 [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)。
 - Bug 和功能建议请使用仓库的 Issue 模板。
 - Pull Request 请遵循自动生成的检查清单，并确保 CI 通过。
 
 ## License
 
-本项目采用 [MIT License](LICENSE)。
+程序代码采用 [MIT License](LICENSE)。Mock 数据、第三方服务名称和外部链接的权利边界见 [CONTENT_NOTICE.md](CONTENT_NOTICE.md)。
