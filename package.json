@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "tsx watch server/index.ts",
+    "dev:mcp": "tsx server/mcp/server.ts",
     "dev:web": "pnpm --filter ecommerce-agent-web dev",
     "build": "tsc -p tsconfig.json",
     "build:web": "pnpm --filter ecommerce-agent-web build",
@@ -16,6 +17,7 @@
     "typecheck": "tsc -p tsconfig.json --noEmit"
   },
   "dependencies": {
+    "@modelcontextprotocol/sdk": "1.29.0",
     "cors": "^2.8.5",
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
