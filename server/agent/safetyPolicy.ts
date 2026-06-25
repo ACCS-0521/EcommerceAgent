@@ -26,7 +26,7 @@ const handoffRules: Array<{ intent: string; pattern: RegExp }> = [
   { intent: 'complaint', pattern: /骗子|垃圾平台|投诉|举报|客服态度/i },
   { intent: 'angry_user', pattern: /傻逼|说人话|气死|愤怒/i },
   { intent: 'repeat_failure', pattern: /问三遍|一直解决不了|连续两次|还是没解决/i },
-  { intent: 'human_service', pattern: /人工客服|找人工|转人工/i },
+  { intent: 'human_service', pattern: /转人工|找人工|接人工|人工服务|真人客服|我要人工/i },
 ];
 
 export function evaluateSafetyPolicy(message: string): SafetyDecision | null {
